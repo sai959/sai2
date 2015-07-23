@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>sai.org</groupId>
+  <artifactId>app3</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150723.033839</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150723033839</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>war</extension>
+        <value>1.0-20150723.033839-1</value>
+        <updated>20150723033839</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0-20150723.033839-1</value>
+        <updated>20150723033839</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
